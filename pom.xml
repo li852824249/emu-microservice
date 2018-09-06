@@ -71,5 +71,6 @@
    <modules>
    	<module>emu-microservice-api</module>
    	<module>emu-microservice-provider-dept-8001</module>
+   	<module>emu-microservice-consumer-dept-80</module>
    </modules>
 </project>
